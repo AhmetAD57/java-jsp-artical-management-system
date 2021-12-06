@@ -4,3 +4,7 @@
 - Java Server Pages
 - Apache Tomcat
 - MS SQL Server 
+
+## License
+MIT
+
