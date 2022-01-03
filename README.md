@@ -19,17 +19,17 @@ Management of the reporting process of articles by experts.
 ## Screenshots
 ### Author
 <p align="center">
-  <img src="./images/1.png" width="90%"/> 
+  <img src="./images/1.png"/> 
 </p>
 
 ### Admin
 <p align="center">
-  <img src="./images/2.png" width="90%"/>
+  <img src="./images/2.png"/>
 </p>
 
 ### Expert
 <p align="center">
-  <img src="./images/3.png" width="90%"/>
+  <img src="./images/3.png"/>
 </p>
 
 
