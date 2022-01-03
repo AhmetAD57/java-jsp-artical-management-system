@@ -3,7 +3,7 @@
 Management of the reporting process of articles by experts.
 
 ## Used Tools
-- Java Server Pages
+- Java Server Pages (JSP)
 ### Web Server
 - Apache Tomcat
 ### Database
