@@ -1,4 +1,5 @@
 # Java JSP Artical Management System
+<img src="./images/banner.png"/>
 
 Management of the reporting process of articles by experts.
 
