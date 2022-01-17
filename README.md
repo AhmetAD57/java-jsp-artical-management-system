@@ -33,8 +33,5 @@ Management of the reporting process of articles by experts.
   <img src="./images/3.png"/>
 </p>
 
-
-
 ## License
 MIT
-
